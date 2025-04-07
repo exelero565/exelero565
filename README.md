@@ -51,7 +51,7 @@
 
 - Email: i-kamnev@bk.ru  
 - LinkedIn: [linkedin.com/in/david-belov-2352a735a](https://www.linkedin.com/in/david-belov-2352a735a/)
-- Telegram: по запросу  
+- Telegram: https://t.me/ikamnev
 - Готов рассмотреть предложения по аналитике и Data Science 🚀
 
 ---
