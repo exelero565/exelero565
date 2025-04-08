@@ -50,7 +50,7 @@
 ### 📬 Связь со мной
 
 - Email: i-kamnev@bk.ru  
-- LinkedIn: [linkedin.com/in/david-belov-2352a735a](https://www.linkedin.com/in/david-belov-2352a735a/)
+- LinkedIn: [linkedin.com/in/ikamnev](https://www.linkedin.com/in/%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B9-%D0%B1%D0%B5%D0%BB%D0%BE%D0%B2-2352a735a )
 - Telegram: https://t.me/ikamnev
 - Готов рассмотреть предложения по аналитике и Data Science 🚀
 
