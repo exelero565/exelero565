@@ -52,6 +52,7 @@
 - Email: i-kamnev@bk.ru  
 - LinkedIn: [linkedin.com/in/exelero565](https://www.linkedin.com/in/exelero565/)
 - Telegram: https://t.me/ikamnev
+- kaggle (https://www.kaggle.com/exelero)
 - Готов рассмотреть предложения по аналитике и Data Science 🚀
 
 ---
